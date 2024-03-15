@@ -16,6 +16,7 @@
 
 ### Lecture & Mission
 - [1주차 미션](https://momentous-globe-59d.notion.site/Week1-Predict-churn-rate-8f630cfd238c414c9029b0fbd1cb731b?pvs=4)
+- [2주차 미션](https://momentous-globe-59d.notion.site/Week2-EDA-1245334510e940a2b9afece852afc54b?pvs=4)
 
 ### Study
 - [우수미션 리뷰 1주차](https://momentous-globe-59d.notion.site/1-fa8b28d6f9774cb98b8e90283e2c84d3?pvs=4)
